@@ -25,7 +25,7 @@ The model achieves:
 
 ---
 
-## 🏗 Model Architecture
+##  Model Architecture
 
 ### Base Model
 - EfficientNetB2 (Pre-trained on ImageNet)
